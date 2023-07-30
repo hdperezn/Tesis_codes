@@ -9,6 +9,8 @@ Here you can find the codes used in the elaboration of cap 3 of the thesis. "The
 
 # EEG_Net
 
-This code contains the Neural network used for the EEG emotional recognition task.
+This [code](https://github.com/hdperezn/Tesis_codes/blob/main/Copia_de_EEGNET_cross_val.ipynb) contains the Neural network used for the EEG emotional recognition task. 
+
+
 
 
